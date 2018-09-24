@@ -1,0 +1,14 @@
+C:\Source\Repos\FizzBuzz\FizzBuzz.API\bin\Debug\netcoreapp2.1\FizzBuzz.API.deps.json
+C:\Source\Repos\FizzBuzz\FizzBuzz.API\bin\Debug\netcoreapp2.1\FizzBuzz.API.runtimeconfig.json
+C:\Source\Repos\FizzBuzz\FizzBuzz.API\bin\Debug\netcoreapp2.1\FizzBuzz.API.runtimeconfig.dev.json
+C:\Source\Repos\FizzBuzz\FizzBuzz.API\bin\Debug\netcoreapp2.1\FizzBuzz.API.dll
+C:\Source\Repos\FizzBuzz\FizzBuzz.API\bin\Debug\netcoreapp2.1\FizzBuzz.API.pdb
+C:\Source\Repos\FizzBuzz\FizzBuzz.API\obj\Debug\netcoreapp2.1\FizzBuzz.API.csprojAssemblyReference.cache
+C:\Source\Repos\FizzBuzz\FizzBuzz.API\obj\Debug\netcoreapp2.1\FizzBuzz.API.csproj.CoreCompileInputs.cache
+C:\Source\Repos\FizzBuzz\FizzBuzz.API\obj\Debug\netcoreapp2.1\FizzBuzz.API.RazorAssemblyInfo.cache
+C:\Source\Repos\FizzBuzz\FizzBuzz.API\obj\Debug\netcoreapp2.1\FizzBuzz.API.RazorAssemblyInfo.cs
+C:\Source\Repos\FizzBuzz\FizzBuzz.API\obj\Debug\netcoreapp2.1\FizzBuzz.API.AssemblyInfoInputs.cache
+C:\Source\Repos\FizzBuzz\FizzBuzz.API\obj\Debug\netcoreapp2.1\FizzBuzz.API.AssemblyInfo.cs
+C:\Source\Repos\FizzBuzz\FizzBuzz.API\obj\Debug\netcoreapp2.1\FizzBuzz.API.RazorTargetAssemblyInfo.cache
+C:\Source\Repos\FizzBuzz\FizzBuzz.API\obj\Debug\netcoreapp2.1\FizzBuzz.API.dll
+C:\Source\Repos\FizzBuzz\FizzBuzz.API\obj\Debug\netcoreapp2.1\FizzBuzz.API.pdb

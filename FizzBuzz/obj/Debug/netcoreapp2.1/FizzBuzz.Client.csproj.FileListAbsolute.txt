@@ -1,0 +1,14 @@
+C:\Source\Repos\Premex\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.Client.deps.json
+C:\Source\Repos\Premex\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.Client.runtimeconfig.json
+C:\Source\Repos\Premex\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.Client.runtimeconfig.dev.json
+C:\Source\Repos\Premex\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.Client.dll
+C:\Source\Repos\Premex\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.Client.pdb
+C:\Source\Repos\Premex\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.Server.dll
+C:\Source\Repos\Premex\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.Server.pdb
+C:\Source\Repos\Premex\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.Client.csprojAssemblyReference.cache
+C:\Source\Repos\Premex\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.Client.csproj.CoreCompileInputs.cache
+C:\Source\Repos\Premex\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.Client.AssemblyInfoInputs.cache
+C:\Source\Repos\Premex\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.Client.AssemblyInfo.cs
+C:\Source\Repos\Premex\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.Client.csproj.CopyComplete
+C:\Source\Repos\Premex\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.Client.dll
+C:\Source\Repos\Premex\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.Client.pdb
